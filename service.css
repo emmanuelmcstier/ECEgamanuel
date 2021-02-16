@@ -52,51 +52,13 @@ nav {
   text-decoration: none;
 }
 
-.presentation {
-  display: flex;
+.div1 {
   width: 90%;
   margin: auto;
-  min-height: 80vh;
-  align-items: center;
-}
-.introduction {
- flex: 1;
-}
-.intro-text  h1{
-
-  font-size: 44px;
-  font-weight: 500;
-  background: linear-gradient(to right, #494964, #6f6f89);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-
-}
-
-.intro-text p{
-  margin-top: 5px;
-  font-size: 20px;
-  color: #585772;
-}
-
-.cta{
-  padding: 50px 0px 0px 0px;
-}
-
-.cta-select {
-
-  border: 2px solid #c36cbb;
-  background: transparent;
-  color: #c36cbb;
-  width: 150px;
-  height: 50px;
-  cursor: pointer;
-}
-.cover {
-  flex: 1;
-}
-.cover img {
-  height: 50vh;
-
+} 
+div 1  h1{
+  margin: auto;
+  color: #5f5f79;
 }
 footer .conclude {
   display: flex;
