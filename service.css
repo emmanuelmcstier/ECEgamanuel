@@ -56,9 +56,9 @@ nav {
   width: 90%;
   margin: auto;
 } 
-div 1  h1{
+.div1  h1{
   margin: auto;
-  color: #5f5f79;
+  color: #3e3e59;
 }
 footer .conclude {
   display: flex;
